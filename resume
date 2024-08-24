@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kristyan Michael Roies - Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Kristyan Michael Roies</h1>
+            <p>Sales Representative | Gainesville, FL | Email: your.email@example.com | Phone: (555) 555-5555</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am a 30-year-old individual with a strong interest in computer technology. My diverse work experience spans customer service, sales, inventory management, and technical support.</p>
+        </div>
+    </section>
+
+    <section id="experience">
+        <div class="container">
+            <h2>Experience</h2>
+            <div class="job">
+                <h3>Sales Representative - Martins Family Appliances</h3>
+                <p><strong>Location:</strong> Gainesville, FL | <strong>Dates:</strong> August 2022 - June 2024</p>
+                <ul>
+                    <li>Made sales on appliances</li>
+                    <li>Wrote work orders for appliance repair</li>
+                    <li>Assisted and interacted with the general public</li>
+                    <li>Helped customers find the right parts for appliance repair</li>
+                    <li>Maintained a tidy storefront</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Inventory Specialist - BUSBY CABINETS</h3>
+                <p><strong>Location:</strong> Gainesville, FL | <strong>Dates:</strong> January 2021 - August 2022</p>
+                <ul>
+                    <li>Managed inventory and restocking</li>
+                    <li>Completed orders and used inventory software</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Customer Service Representative - Answer First Communications</h3>
+                <p><strong>Location:</strong> Alachua, FL | <strong>Dates:</strong> January 2020 - January 2021</p>
+                <ul>
+                    <li>Resolved customer issues</li>
+                    <li>Booked appointments for clients</li>
+                    <li>Worked in the inbound call center</li>
+                    <li>Assisted customers via live chat</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Warehouse Worker - Exactech, Inc.</h3>
+                <p><strong>Location:</strong> Gainesville, FL | <strong>Dates:</strong> September 2016 - January 2020</p>
+                <ul>
+                    <li>Received and shipped products</li>
+                    <li>Handled after-hours calls to ensure timely delivery</li>
+                    <li>Used inventory management software for replenishment</li>
+                    <li>Worked with sterile medical instruments</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Commercial Driver - Autozone</h3>
+                <p><strong>Location:</strong> Alachua, FL | <strong>Dates:</strong> February 2016 - May 2016</p>
+                <ul>
+                    <li>Used inventory management software</li>
+                    <li>Addressed and resolved customer issues</li>
+                    <li>Provided logistical solutions for product delivery</li>
+                    <li>Managed product inventory in a warehouse setting</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Handyman/Laborer - Self Employed</h3>
+                <p><strong>Dates:</strong> April 2015 - April 2016</p>
+                <!-- Add details if applicable -->
+            </div>
+            <div class="job">
+                <h3>Cook/Prep - Red Lobster</h3>
+                <p><strong>Dates:</strong> April 2014 - April 2015</p>
+                <!-- Add details if applicable -->
+            </div>
+            <div class="job">
+                <h3>Cashier/Sales Associate - Kangaroo Express</h3>
+                <p><strong>Dates:</strong> March 2013 - April 2014</p>
+                <!-- Add details if applicable -->
+            </div>
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="degree">
+                <h3>High School Diploma - St. Augustine High School</h3>
+                <p><strong>Graduation Date:</strong> 2012</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Handyman</li>
+                <li>Order Picking</li>
+                <li>Customer Service</li>
+                <li>RF Scanner</li>
+                <li>Live Chat</li>
+                <li>Pallet Jack</li>
+                <li>Materials Handling</li>
+                <li>Shipping & Receiving</li>
+                <li>Computer Operation</li>
+                <li>Freight Experience</li>
+                <li>Packaging</li>
+                <li>Warehouse Experience</li>
+                <li>Logistics</li>
+                <li>Forklift</li>
+                <li>Load & Unload</li>
+                <li>Microsoft Word</li>
+                <li>Microsoft PowerPoint</li>
+                <li>Microsoft Excel</li>
+                <li>Windows</li>
+                <li>Mac OS</li>
+                <li>Linux</li>
+                <li>Operating Systems</li>
+                <li>Technical Support</li>
+                <li>LAN</li>
+                <li>Inventory Control</li>
+                <li>Math</li>
+                <li>Sales</li>
+                <li>Communication Skills</li>
+                <li>Cash Register</li>
+                <li>Driving</li>
+                <li>Construction</li>
+                <li>Retail Sales</li>
+                <li>Software Troubleshooting</li>
+                <li>Cash Handling</li>
+                <li>Typing</li>
+                <li>Microsoft Office</li>
+                <li>Time Management</li>
+                <li>Manufacturing</li>
+                <li>Maintenance</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Kristyan Michael Roies. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
